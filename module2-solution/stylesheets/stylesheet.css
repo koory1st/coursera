@@ -15,7 +15,7 @@ h1{
 	position: absolute;
 	width: 100px;
 	right:0;
-	border: 2px solid green;
+	border: 1px solid black;
 	font-size: 1.25em;
 }
 
@@ -35,8 +35,9 @@ p.yellow{
 
 .withborder{
 	position: relative;
-	border: 2px solid black;
+	border: 1px solid black;
 	margin: 10px;
+	background-color: gray;
 }
 
 @media (min-width: 992px) {
